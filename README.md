@@ -1,2 +1,2 @@
-# SpringBoot_CRUD
-Applied CRUD functionality using spring boot and postgres
+# Spring Boot CRUD
+Applied CRUD functionality using spring boot and utilized postgres to store user info
